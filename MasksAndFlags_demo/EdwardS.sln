@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MasksAndFlags", "MasksAndFlags.csproj", "{2B02918B-E2F4-448A-9B21-973F95DEA9D2}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{2B02918B-E2F4-448A-9B21-973F95DEA9D2}.Debug.ActiveCfg = Debug|.NET
+		{2B02918B-E2F4-448A-9B21-973F95DEA9D2}.Debug.Build.0 = Debug|.NET
+		{2B02918B-E2F4-448A-9B21-973F95DEA9D2}.Release.ActiveCfg = Release|.NET
+		{2B02918B-E2F4-448A-9B21-973F95DEA9D2}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
